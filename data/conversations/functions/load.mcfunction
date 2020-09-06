@@ -1,0 +1,2 @@
+tellraw @a {"text":"Loaded NPC conversation by 48panda","color":"blue","hoverEvent":{"action":"show_text","contents":{"text":"to remove this text delete the contents of load.mcfunction"}}}
+gamerule sendCommandFeedback False
